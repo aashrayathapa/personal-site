@@ -1,0 +1,12 @@
+/* Set a fixed height for the carousel */
+.carousel-item {
+  height: 400px;
+  width: 100%; /* Adjust this value for the desired height */
+}
+
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
